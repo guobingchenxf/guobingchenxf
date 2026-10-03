@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 <img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
 ### 📫 How to reach me: 
-- 📧 Email: guobingchen_hit@gmail.com
+- 📧 Email: guobingchen.hit@gmail.com
 - 💬 Please reach out for collaboration 😃 !
