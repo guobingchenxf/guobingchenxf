@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h2 align="center"> Hi 👋! I'm Chongjie</h2>
+<h2 align="center"> Hi 👋! I'm Bingchen Guo</h2>
 
 
 ### ✨ Quick Facts
