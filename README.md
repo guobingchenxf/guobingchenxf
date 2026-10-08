@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 I’m currently a post graduate student in computer science.
+- 👨🏽‍💻 I’m currently a postgraduate student in computer science.
 - 🌱 I’m currently working on Recommender System and Advertisement Algorithm.
 - 🎿 Hobbies: Music, weight training and film. Always open to making new friends 🔭...
 
